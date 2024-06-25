@@ -1,0 +1,6 @@
+Nome: Januario Campos
+Idade 18
+Email:  januario@ucc.com
+Sexo : M
+Disciplina:  Estrutura de Dados
+Salario:  2500.0

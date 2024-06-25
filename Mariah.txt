@@ -1,0 +1,6 @@
+Nome: Mariah
+Idade 19
+Email:  mariah@ucc.com
+Sexo : F
+Matricula:  18997
+Curso:  Fisica
